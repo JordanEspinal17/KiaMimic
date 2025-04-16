@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# KiaMimic
-=======
-# KiaMimic Project
->>>>>>> 1f50303 (Initial commit with README)
+This is a recreation of Kia's API based off the leak/hack from 2024. This is scaled down version and for educational purposes.
